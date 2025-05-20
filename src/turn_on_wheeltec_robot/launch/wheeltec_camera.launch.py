@@ -41,7 +41,7 @@ def generate_launch_description():
 	
 	#Select your camera here, options include:
 	#Astra_S、Astra_Pro、Dabai、Gemini、Wheeltec_Usbcam
-	ld.add_action(Astra_S)
+	ld.add_action(Gemini)
 
 	ld.add_action(usbcam_arg)
 
